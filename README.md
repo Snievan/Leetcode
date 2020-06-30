@@ -1,4 +1,4 @@
-<img src="http://latex.codecogs.com/gif.latex?\frac{\partial J}{\partial \theta_k^{(j)}}=\sum_{i:r(i,j)=1}{\big((\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\big)x_k^{(i)}}+\lambda \theta_k^{(j)}" />
+![哈哈](http://latex.codecogs.com/gif.latex?y=x^2+2\times5+10 "哈哈")
 
 # Leetcode
 My submisson for leetcode problems
